@@ -2,12 +2,12 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="cordova-plugin-zebra-enterprisekeyboard" version="0.0.1">
-    <name>ZebraKeyboard</name>
+    <name>Zebra Keyboard Layout</name>
 
-    <description>An Android Cordova plugin that allows you select a specific custom Zebra Keyboard Template.</description>
+    <description>An Android Cordova plugin that allows you select a specific custom Zebra Keyboard Layout.</description>
     <license>MIT</license>
 
-    <keywords>cordova,android,zebra,keyboard</keywords>
+    <keywords>cordova,android,zebra,enterprise,keyboard</keywords>
     <repo>https://github.com/quatronic/zebrakeyboard</repo>
     <issue>https://github.com/quatronic/zebrakeyboard/issues</issue>
   
